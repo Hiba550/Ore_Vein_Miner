@@ -14,7 +14,6 @@ A Minecraft datapack that allows you to efficiently mine ore veins with special 
 
 Simply install the datapack/mod and it will automatically work. When you use a compatible pickaxe:
 - Mine an ore block to trigger vein mining
-- Fortune and Silk Touch enchantments are fully supported
 - The datapack handles the rest automatically
 
 ## Configuration
