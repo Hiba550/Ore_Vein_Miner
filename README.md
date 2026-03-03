@@ -29,8 +29,8 @@ To reset the configuration, use:
 
 ## Compatibility
 
-- **Minecraft Version**: Java Edition 1.17+
-- **Installation**: Datapack (no mods required)
+- **Minecraft Version**: Java Edition 1.16+
+- **Installation**: Datapack (no mods required) also comes with packages jar
 
 ## Download
 
