@@ -9,13 +9,10 @@ A Minecraft datapack that allows you to efficiently mine ore veins with special 
    - **Modrinth**: https://modrinth.com/datapack/ore-vein-miner
    - **CurseForge**: https://www.curseforge.com/minecraft/mc-mods/ore-vein-miner
 
-2. Extract the datapack folder into your world's `datapacks` folder
-3. Run `/reload` in your Minecraft world
-4. Run `/function svm:setup` to initialize the datapack
 
 ## Usage
 
-Simply install the datapack and it will automatically work. When you use a compatible pickaxe:
+Simply install the datapack/mod and it will automatically work. When you use a compatible pickaxe:
 - Mine an ore block to trigger vein mining
 - Fortune and Silk Touch enchantments are fully supported
 - The datapack handles the rest automatically
